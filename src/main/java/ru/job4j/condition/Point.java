@@ -4,9 +4,11 @@ public class Point {
     public static double distance1(int x1, int x2) {
         return x2 - x1;
     }
+
     public static double distance2(int y1, int y2) {
         return y2 - y1;
     }
+
         public static void main(String[] args) {
         double result1 = Point.distance1(0, 0);
         double result2 = Point.distance2(2, 0);
