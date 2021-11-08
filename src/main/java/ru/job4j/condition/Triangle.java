@@ -7,6 +7,6 @@ public class Triangle {
     }
 
     public static void main(String[] args) {
-        Triangle.exist(1.0, 1.0, 1.0);
+        Triangle.exist(2.0, 2.0, 2.0);
     }
 }
